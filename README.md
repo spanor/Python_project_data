@@ -2,7 +2,7 @@
 
 Welcome to my project of analyzing data in the job market of data, network, software engineering. I got inspired about this project for as I started looking for job market in different states of the world.
 
-The data is sourced from huggingface technology, specifically from username lukebarousse, one of my teachers and guides through data world. 
+The data is sourced from huggingface technology, specifically from Luke Barousse, who was one of my mentors through data world exploring with Python.
 
 In this project I started by answering couple of questions about the skills in demand for the job roles I was looking in the job market, focusing in Scandinavia, EMEA and after in the United States. 
 
