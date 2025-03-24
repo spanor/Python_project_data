@@ -82,7 +82,7 @@ Methodology
 - Calculate skill percentage
 - Plot final findings
 
-View my notebook with detailed steps here: [2.Skill Demand.ipynb](3.Projects\2.Skill Demand.ipynb)
+### Final Results
 
 ### Visualize Data
 
